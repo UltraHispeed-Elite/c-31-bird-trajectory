@@ -1,2 +1,2 @@
-# c-31-bird-trajectory
-birds with smoke
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
